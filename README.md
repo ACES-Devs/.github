@@ -10,7 +10,7 @@ We are dedicated to developing, and deploying internal digital infrastructure, s
 
 <div style="height: 1px; width: 100%; background-color: #30363d; margin: 16px 0;"></div>
 
-### About the Committee
+## About the Committee
 
 The **ACES Developer Committee** serves as the technical engine of the Association of Computer E-Students, dedicated to advancing digital innovation across the Computer Studies Department at the University of Caloocan City – Congressional Campus.
 
