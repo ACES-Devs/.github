@@ -4,7 +4,7 @@
 
 <div style="height: 1px; width: 100%; background-color: #30363d; margin: 16px 0;"></div>
 
-The **ACES Dev Committee** is the official technical and development arm of the **Association of Computer E-Students (ACES)**—the head student council of the Computer Studies Department at the **University of Caloocan City – Congressional Campus**.
+The **ACES Developer Committee** is the official technical and development arm of the **Association of Computer E-Students (ACES)**—the head student council of the Computer Studies Department at the **University of Caloocan City – Congressional Campus**.
 
 We are dedicated to developing, and deploying internal digital infrastructure, student portals, and automated systems that support council operations and serve the entire student body.
 
@@ -26,6 +26,7 @@ Our mission is to engineer purposeful, student-first technology solutions that m
 | **Pangilinan, Rodge Patrick T.** | Associate Developer |
 | **Baynosa, Michael M.** | Associate Developer |
 | **Delos Santos, Ashbey M.** | Quality Assurance Specialist |
+| **To be added** |
 
 <div style="height: 1px; width: 100%; background-color: #30363d; margin: 16px 0;"></div>
 
